@@ -1,4 +1,4 @@
 Docker pull nginx
 docker ps
-docker run -d -p 9000:80 -t nginx
+sudo docker run --name dipsmita11 -p 9000:8080 -d nginx
 docker inspect <container ID>
