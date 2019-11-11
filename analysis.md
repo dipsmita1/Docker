@@ -7,4 +7,4 @@ yum install Docker
 creation of Nginx can be done from pulling the image from Docker HUB. To login Docker HUB
 Docker login(after providing the docker HUB creds we would be able to login)
 Create a docker container to run a simple Nginx webserver in port 9000:
-Steps are mentioned in Docker file
+Steps are mentioned in NGINX and ec2 template
